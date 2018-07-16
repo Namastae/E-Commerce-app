@@ -1,0 +1,6 @@
+com\niit\daoimpl\Registerdaoimpl.class
+com\niit\controller\Registercontroller.class
+com\niit\dao\Registerdao.class
+com\niit\controller\Homepagecontroller.class
+com\niit\model\Register.class
+com\niit\controller\Addproductcontroller.class
